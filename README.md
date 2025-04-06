@@ -13,3 +13,15 @@ A pygame Path Finding Simulator: Documentation of my learning journey
 - [C++ Array Refresher](https://youtu.be/Vh4krbTnTAA?si=IZ6TX1RZA5S7lh_W)
 - Setup git repo for project
 
+### Day Two
+- Reading up on A* search
+    - Did some revision on underlying algorithms: DFS, BFS
+    - Read up on heuristic algorithms and those that combine both cost and heuristic (the A* search)
+    - Wrote the pseudo code for the A* search algorithm in C++
+    - Came to the realisation how much revision I need.
+    - Stretched time duration till I hit my goal
+
+#### Tentative plan
+- Week One :    Sorting algorithms, time complexity and space complexity analysis
+- Week Two: The Equivalence Problem; Maze generator using Union
+- Week Three: Graph Algorithms; CLI Path finding using DFS 
