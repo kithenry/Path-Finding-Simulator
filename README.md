@@ -1,7 +1,7 @@
 # Path-Finding-Simulator
-A pygame Path Finding Simulator: Documentation of my learning journey
 
-### Day One
+### Progress Log
+#### Day One (29/03/2025)
 - Setup Working Environment
   - Installed pygame
   - Confirmed g++ was working 
